@@ -1,0 +1,14 @@
+{
+  "name": "heroku-deployment",
+  "version": "1.0.0",
+  "description": "Node to Heroku deployment test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cyrof",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
